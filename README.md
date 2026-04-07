@@ -8,3 +8,4 @@
 | 4 | gray code 1611215248 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1) | 04-04-26 |
 | 5 | target sum 1626326450 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | 05-04-26 |
 | 6 | huffman encoding3345 | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) | 06-04-26 |
+| 7 | stable marriage problem | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | 07-04-26 |
