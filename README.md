@@ -9,3 +9,4 @@
 | 5 | target sum 1626326450 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | 05-04-26 |
 | 6 | huffman encoding3345 | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) | 06-04-26 |
 | 7 | stable marriage problem | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | 07-04-26 |
+| 8 | segregate 0s and 1s5106 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | 08-04-26 |
