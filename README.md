@@ -10,3 +10,4 @@
 | 6 | huffman encoding3345 | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) | 06-04-26 |
 | 7 | stable marriage problem | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | 07-04-26 |
 | 8 | segregate 0s and 1s5106 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | 08-04-26 |
+| 9 | intersection of two sorted arrays ... | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) | 09-04-26 |
