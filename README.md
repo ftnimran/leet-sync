@@ -14,3 +14,4 @@
 | 10 | sorted subsequence of size 3 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) | 10-04-26 |
 | 11 | count increasing subarrays5301 | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) | 11-04-26 |
 | 12 | toeplitz matrix | easy | JavaScript | Matrix | [Link](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1) | 12-04-26 |
+| 13 | next smallest palindrome4740 | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1) | 13-04-26 |
