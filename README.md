@@ -15,3 +15,4 @@
 | 11 | count increasing subarrays5301 | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) | 11-04-26 |
 | 12 | toeplitz matrix | easy | JavaScript | Matrix | [Link](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1) | 12-04-26 |
 | 13 | next smallest palindrome4740 | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1) | 13-04-26 |
+| 14 | remove spaces0128 | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/remove-spaces0128/1) | 14-04-26 |
