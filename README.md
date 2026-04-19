@@ -20,3 +20,4 @@
 | 16 | implement atoi | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/implement-atoi/1) | 16-04-26 |
 | 17 | anagram palindrome4720 | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1) | 17-04-26 |
 | 18 | flip bits0240 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/flip-bits0240/1) | 18-04-26 |
+| 19 | check if a number is power of anot... | basic | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) | 19-04-26 |
