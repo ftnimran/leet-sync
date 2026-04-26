@@ -27,3 +27,4 @@
 | 23 | split an array into two equal sum ... | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | 23-04-26 |
 | 24 | buildings receiving sunlight3032 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1) | 24-04-26 |
 | 25 | asteroid collision | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/asteroid-collision/1) | 25-04-26 |
+| 26 | common elements1132 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/common-elements1132/1) | 26-04-26 |
