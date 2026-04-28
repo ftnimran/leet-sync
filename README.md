@@ -29,3 +29,4 @@
 | 25 | asteroid collision | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/asteroid-collision/1) | 25-04-26 |
 | 26 | common elements1132 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/common-elements1132/1) | 26-04-26 |
 | 27 | smallest window containing 0 1 and... | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) | 27-04-26 |
+| 28 | longest repeating character replac... | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | 28-04-26 |
