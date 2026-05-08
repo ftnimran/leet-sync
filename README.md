@@ -39,3 +39,4 @@
 | 35 | sum of xor of all pairs0723 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1) | 05-05-26 |
 | 36 | size of binary tree | basic | JavaScript | Tree | [Link](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | 06-05-26 |
 | 37 | check if subtree | medium | JavaScript | Tree | [Link](https://www.geeksforgeeks.org/problems/check-if-subtree/1) | 07-05-26 |
+| 38 | remove invalid parentheses | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/remove-invalid-parentheses/1) | 08-05-26 |
