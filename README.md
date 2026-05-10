@@ -41,3 +41,4 @@
 | 37 | check if subtree | medium | JavaScript | Tree | [Link](https://www.geeksforgeeks.org/problems/check-if-subtree/1) | 07-05-26 |
 | 38 | remove invalid parentheses | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/remove-invalid-parentheses/1) | 08-05-26 |
 | 39 | total number of spanning trees in ... | hard | JavaScript | Graph | [Link](https://www.geeksforgeeks.org/problems/total-number-of-spanning-trees-in-a-graph/1) | 09-05-26 |
+| 40 | max profit from two machines | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/max-profit-from-two-machines/1) | 10-05-26 |
