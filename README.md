@@ -44,3 +44,4 @@
 | 40 | max profit from two machines | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/max-profit-from-two-machines/1) | 10-05-26 |
 | 41 | palindrome pairs | hard | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/palindrome-pairs/1) | 11-05-26 |
 | 42 | range lcm queries3348 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/range-lcm-queries3348/1) | 12-05-26 |
+| 43 | mother vertex | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/mother-vertex/1) | 13-05-26 |
