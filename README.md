@@ -49,3 +49,4 @@
 | 45 | special keyboard3018 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/special-keyboard3018/1) | 15-05-26 |
 | 46 | smallest number subset1220 | medium | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/smallest-number-subset1220/1) | 16-05-26 |
 | 47 | make the array beautiful  170647 | easy | JavaScript | Array | [Link](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1) | 17-05-26 |
+| 48 | maximum sum problem2211 | easy | JavaScript | General | [Link](https://www.geeksforgeeks.org/problems/maximum-sum-problem2211/1) | 18-05-26 |
